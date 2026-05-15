@@ -1,4 +1,4 @@
-# 
+# Enhance Atom for PC | Atom for Windows with premium Atom for PC | Atom for Windows Integration | terminal-integration + syntax-highlighting, the #1 integration. Includes
 
 
 
